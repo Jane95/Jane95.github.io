@@ -29,5 +29,7 @@ h1{
 }
 
 #credits{
+  position:fixed;
+  bottom:0;
   font-size:60%;
 }
