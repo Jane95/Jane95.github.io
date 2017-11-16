@@ -1,4 +1,4 @@
-body{
+ body{
   margin:0px;
   color:#009999;
 }
@@ -18,4 +18,10 @@ h1{
   height:100%
   width:70%;
   display:inline-block;
+}
+
+#mtn{
+  width:30%;
+  margin:0px;
+  float:bottom;
 }
