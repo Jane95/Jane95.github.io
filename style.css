@@ -9,16 +9,16 @@ h1{
 }
 
 #navbar{
+  display:inline-block;
   height:100%;
   width:30%;
-  display:inline-block;
   background-color:#84A69E;/*#75003B;*/
 }
 
 #content{
-  height:100%;
-  width:70%;
   display:inline-block;
+  height:100%;
+  width:69%;
   background-color:#ADCBC7;
 }
 
