@@ -1,4 +1,3 @@
-
 body{
   margin:0px;
   color:#009999;
@@ -9,10 +8,10 @@ h1{
 }
 
 #navbar{
-  display:inline-block;
-  margin:0px;
   height:100%;
   width:30%;
+  display:inline-block;
+  margin:0px;
   background-color:#75003B;
 }
 
