@@ -11,7 +11,7 @@ h1{
   height:100%;
   width:30%;
   display:inline-block;
-  background-color:#75003B;
+  background-color:#ADCBC7;/*#75003B;*/
 }
 
 #content{
@@ -24,4 +24,8 @@ h1{
   width:100%;
   margin:0px;
   float:bottom;
+}
+
+#credits{
+  font-size:30%;
 }
