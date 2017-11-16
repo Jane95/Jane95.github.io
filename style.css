@@ -1,11 +1,16 @@
 body{
-
   color: #009999;
-
 }
 
 h1{
+  color:white;
+}
 
-  color:#75003B;
+#navbar{
+  display:inline-block;
+  background-color:#75003B;
+}
 
+#content{
+  display:inline-block;
 }
