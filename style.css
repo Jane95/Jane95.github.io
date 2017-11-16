@@ -14,7 +14,7 @@ h1{
   display:inline-block;
   height:100%;
   width:29%;
-  background-color: #96B7B0;/*#75003B;*/
+  background-color: white;/*#96B7B0;/*#75003B;*/
 }
 
 #content{
@@ -25,7 +25,7 @@ h1{
   background-color:whitesmoke;
 }
 
-#mtn{
+/*#mtn{
   width:100%;
   margin:0px;
 }
@@ -35,3 +35,4 @@ h1{
   bottom:0;
   font-size:60%;
 }
+*/
