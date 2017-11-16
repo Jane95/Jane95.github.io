@@ -1,5 +1,5 @@
 body{
-  color: #009999;
+  color:#009999;
 }
 
 h1{
@@ -8,9 +8,15 @@ h1{
 
 #navbar{
   display:inline-block;
+  margin:0px;
+  height:100%;
+  width:30%;
   background-color:#75003B;
 }
 
 #content{
+  height:100%
+  margin:0px;
+  width:70%;
   display:inline-block;
 }
