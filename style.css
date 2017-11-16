@@ -11,14 +11,15 @@ h1{
 #navbar{
   display:inline-block;
   height:100%;
-  width:30%;
+  width:29%;
   background-color:#84A69E;/*#75003B;*/
 }
 
 #content{
   display:inline-block;
   height:100%;
-  width:69%;
+  width:71%;
+  float:right;
   background-color:#ADCBC7;
 }
 
