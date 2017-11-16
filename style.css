@@ -1,6 +1,7 @@
-body{
+html, body{
   margin:0px;
   color:#009999;
+  height:100%;
   /*background-color:#9FBEB9;*/
 }
 
