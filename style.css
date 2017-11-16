@@ -1,4 +1,4 @@
- body{
+body{
   margin:0px;
   color:#009999;
 }
@@ -21,7 +21,7 @@ h1{
 }
 
 #mtn{
-  width:30%;
+  width:100%;
   margin:0px;
   float:bottom;
 }
