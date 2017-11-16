@@ -24,8 +24,8 @@ h1{
 
 #mtn{
   width:100%;
-  margin:0px;
-  float:bottom;
+  margin:0;
+  position: absolute;
 }
 
 #credits{
