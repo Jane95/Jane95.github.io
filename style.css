@@ -7,7 +7,9 @@ html, body{
 
 h1{
   color:#9e3e6e;
-  font-family: "Calibri Light";
+  font-family: "Calibri";
+  font-weight:400;
+  font-size:167%;
   background-color:#F8F8F8;
 }
 
