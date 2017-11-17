@@ -6,15 +6,16 @@ html, body{
 }
 
 h1{
-  color:#009999;
+  color:#a62364;
   font-family: "Palatino Linotype";
+  background-color:whitesmoke;
 }
 
 #navbar{
   display:inline-block;
   height:100%;
   width:29%;
-  background-color: white;/*#96B7B0;/*#75003B;*/
+  background-color: white;/*#96B7B0;*//*#75003B;*/
 }
 
 #content{
@@ -22,7 +23,7 @@ h1{
   height:100%;
   width:71%;
   float:right;
-  background-color:whitesmoke;
+  background-color:white;
 }
 
 /*#mtn{
