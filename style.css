@@ -2,20 +2,20 @@ html, body{
   margin:0px;
   color:#009999;
   height:100%;
-  /*background-color:#9FBEB9;*/
+  background-color:#F8F8F8;/*#9FBEB9;*/
 }
 
 h1{
   color:#9e3e6e;
   font-family: "Palatino Linotype";
-  background-color:white;
+  background-color:#F8F8F8;
 }
 
 #navbar{
   display:inline-block;
   height:100%;
   width:29%;
-  background-color: white;/*#96B7B0;*//*#75003B;*/
+  background-color: #F8F8F8;/*#96B7B0;*//*#75003B;*/
 }
 
 #content{
@@ -23,7 +23,7 @@ h1{
   height:100%;
   width:71%;
   float:right;
-  background-color:white;
+  background-color:#F8F8F8;
 }
 
 /*#mtn{
