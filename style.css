@@ -17,10 +17,14 @@ h1{
   display:inline-block;
   height:100%;
   width:29%;
+  background-color:#fffae6;
+}
+
+#navbar p{
   font-family:monospace;
   font-weight:bold;
-  font-size:90%;
-  background-color:#fffae6;
+  font-size:110%;
+  background-color:#ffebc1;
 }
 
 #content{
