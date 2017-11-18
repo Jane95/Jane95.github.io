@@ -1,6 +1,6 @@
 html, body{
   margin:0px;
-  color:#009999;
+  color:#3a1000;
   height:100%;
   background-color:#F8F8F8;/*#9FBEB9;*/
 }
@@ -17,6 +17,9 @@ h1{
   display:inline-block;
   height:100%;
   width:29%;
+  font-family:monospace;
+  font-weight:bold;
+  font-size:90%;
   background-color: #fffae6;/*#96B7B0;*//*#75003B;*/
 }
 
@@ -25,7 +28,7 @@ h1{
   height:100%;
   width:71%;
   float:right;
-  background-color:#F8F8F8;
+  background-color:#fffae6;
 }
 
 /*#mtn{
