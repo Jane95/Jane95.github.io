@@ -11,6 +11,7 @@ h1{
   font-weight:bold;
   font-size:130%;
   background-color:#fffae6;
+  border-bottom:solid #007b89;
 }
 
 #navbar{
@@ -24,7 +25,7 @@ h1{
   font-family:monospace;
   font-weight:bold;
   font-size:110%;
-  background-color:#ffebc1;
+  /*background-color:#ffebc1;*/
 }
 
 #content{
